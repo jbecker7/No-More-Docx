@@ -11,3 +11,11 @@ So, to save a total of 5 seconds per class, I cobbled together this quick Python
 Please not that (sadly) you still need to have Word installed for this to work. I do think it makes it a bit faster to convert since you can just run nmd.py from Terminal and not ruin your day wrestling with Word's roughly 600,000 different sub-menus.
 
 Also, I realize Word has multiple proprietary formats. The next step will be handling all of them. 
+
+
+Word: Invented Clippy
+
+<img src="https://user-images.githubusercontent.com/76632760/213041889-febc0d86-67fc-4b67-ab70-758dc1b9531f.png" width=400px>
+
+
+Any Other Word Processor: Did Not Invent Clippy
